@@ -1,4 +1,4 @@
-# Ham Petrol Fiyat Tahmini: Transformer Modelleri ile Bir Yakılaşım
+# Ham Petrol Fiyat Tahmini: Transformer Modell Eğitimi
 
 Bu proje, transformatör tabanlı modeller kullanılarak saatlik ham petrol fiyat tahmini yapmak üzerine odaklanmıştır. Modellerin performansı, iki yıllık saatlik ham petrol fiyat verisi kullanılarak değerlendirilmiştir. Aşağıdaki modeller çalışmanın temelini oluşturmuştur:
 
@@ -31,9 +31,9 @@ Bu projede kullanılan veri seti, iki yıllık saatlik ham petrol fiyat bilgiler
 
 -[https://github.com/YusufPerktas/Time-Series-Machine-Learning](https://github.com/YusufPerktas/Time-Series-Machine-Learning)
 
-![Sayısal Sütunların Histogramları](Transformer-main/pic/Sayısal Sütunların Histogramları.png)
+![Sayısal Sütunların Histogramları](Transformer-main/pic/Sayısal-Sütunların-Histogramları.png)
 
-![Korelasyon Matrisi](Transformer-main/pic/Korelasyon Matrisi.png)
+![Korelasyon Matrisi](Transformer-main/pic/Korelasyon-Matrisi.png)
 
 ## Kullanılan Araçlar ve Kütüphaneler
 
