@@ -75,6 +75,3 @@ Projede aşağıdaki kaynaklardan yararlanılmıştır:
 - [https://github.com/thuml/Autoformer](https://github.com/thuml/Autoformer)
 - [https://github.com/zhouhaoyi/Informer2020](https://github.com/zhouhaoyi/Informer2020)
 - [https://huggingface.co/docs/transformers](https://huggingface.co/docs/transformers/model_doc/time_series_transformer)
-
-
-Bu kodu README dosyanız olarak kullanabilirsiniz. Başka bir değişiklik veya ekleme talebiniz varsa lütfen belirtin!
