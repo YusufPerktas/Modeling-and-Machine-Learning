@@ -1,0 +1,1 @@
+python -u ./run.py --is_training 1 --root_path ./dataset/crude_oil/ --data_path crude_oil_data_with_indicators.csv --model_id crude_oil_96_96 --model Transformer --data custom --features MS --target Close --patience 5 --train_epochs 5 --seq_len 96 --label_len 48 --pred_len 96 --e_layers 2 --d_layers 1 --factor 3 --enc_in 14 --dec_in 14 --c_out 14 --des 'Exp' --itr 1
